@@ -18,6 +18,7 @@ Aplikasi ini dibuat dengan memanfaatkan Java Swing, semacam *tool* yang memfasil
 
   1. CRUD standar;
   2. *Error handling* berikut:
+  
     | Kondisi | *screenshot* |
     | --- | --- |
     | Mengosongkan data wajib (`ID`, `name`) | ![Empty](docs/empty_required.png) |
