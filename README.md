@@ -18,13 +18,13 @@ Aplikasi ini dibuat dengan memanfaatkan Java Swing, semacam *tool* yang memfasil
 
   1. CRUD standar;
   2. *Error handling* berikut:
-  
-    | Kondisi | *screenshot* |
-    | --- | --- |
-    | Mengosongkan data wajib (`ID`, `name`) | ![Empty](docs/empty_required.png) |
-    | Memasukkan angka negatif pada input angka | ![Negative to positive integer](docs/neg_to_int.png) |
-    | Memasukkan angka desimal pada input angka | ![Decimal to positive integer](docs/dec_to_int.png) |
-    | Memasukkan bukan angka pada input angka | ![NaN to integer](docs/str_to_int.png) |
+
+  | Kondisi | *screenshot* |
+  | --- | --- |
+  | Mengosongkan data wajib (`ID`, `name`) | ![Empty](docs/empty_required.png) |
+  | Memasukkan angka negatif pada input angka | ![Negative to positive integer](docs/neg_to_int.png) |
+  | Memasukkan angka desimal pada input angka | ![Decimal to positive integer](docs/dec_to_int.png) |
+  | Memasukkan bukan angka pada input angka | ![NaN to integer](docs/str_to_int.png) |
 
 # ALUR
 Saat pertama kali membuka aplikasi, pengguna akan disambut menu seperti berikut:
