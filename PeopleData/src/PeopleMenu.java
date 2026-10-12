@@ -249,7 +249,13 @@ public class PeopleMenu {
     }
 
     public void populateList() {
-        listPeople.add(new Person("SBR-001", "Artoria Pendragon", 480, "Warrior", 34));
+        listPeople.add(new Person("SBR-001", "Lord Logres", 480, "Saber", 90));
+        listPeople.add(new Person("ARC-001", "Super Orion", 1200, "Archer", 89));
+        listPeople.add(new Person("LNC-001", "Romulus-Quirinus", 753, "Lancer", 75));
+        listPeople.add(new Person("RDR-001", "Noah", 450, "Rider", 80));
+        listPeople.add(new Person("CST-001", "King Solomon", 970, "Caster", 90));
+        listPeople.add(new Person("ASS-001", "Hassan-i Sabbah", 1050, "Assassin", 90));
+        listPeople.add(new Person("BRK-001", "Hercules", 2010, "Berserker", 80));
     }
 
     static void main(String[] args) {
